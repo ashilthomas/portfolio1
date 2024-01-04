@@ -1,0 +1,15 @@
+.copy-write{
+    display: flex;
+    align-items: center;
+   
+    justify-content: center;
+    background-color: #001233;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+  
+
+}
+.copy-write h5{
+    font-size: 15px;
+}

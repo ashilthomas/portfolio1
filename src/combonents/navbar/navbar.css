@@ -1,0 +1,41 @@
+.headeName{
+    text-decoration: none;
+    color: #4F8CFF;
+    font-size: 35px;
+    font-weight: 900;
+
+}
+#headNav{
+background-color:#001233 ;
+
+      margin-right: 100px;
+      margin-left: 100px;
+  
+}
+ ul li{
+    margin-right: 20px;
+  }
+  .nav-item a{
+    font-size: 17px;
+    color:#fff;
+    border-radius: 12px;
+    font-family: 'Poppins', sans-serif;
+  }
+   
+  .nav-link:hover{
+    color: white;
+    background-color:#4F8CFF ;
+   
+  }
+
+  @media (max-width: 568px) {
+   
+    #headNav{
+        background-color:#001233 ;
+        
+              margin-right: 50px;
+              margin-left: 50px;
+          
+        }
+    
+   }
